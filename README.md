@@ -1,4 +1,4 @@
-## Hello Cosmos:milky_way:, this is fellow star stuff made :sparkles:simlal:sparkles:
+## Hello Cosmos:milky_way:, this is fellow star stuff made :sparkles:Simon Lalonde:sparkles:
 I am a self-taught programming apprentice currently living in Sherbrooke, Canada. In the past, I have dwelled in the study of molecular biology:dna: and the production and science behind craft brewing:beer:. I am now focusing on **learning how to code with a data-driven and scientific approach**.
 ***
 My ***programming*** interests:
