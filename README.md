@@ -2,7 +2,7 @@
 I am a self-taught programming apprentice currently living in Sherbrooke, Canada. In the past, I have engaged in research on functional genomics:dna: of cardiovascular and blood diseases as well as lipid metabolism:test_tube: of breast cancer as a molecular biology wet lab scientist. I have also dwelled the production:beer: and science:microscope: behind craft brewing!<br><br>I am now pursuing a Master's in Computer Science to **learn bioinformatics in the context of phylogeographic and landscape genomics research**.
 ***
 My ***scientific and programming*** interests:
-- Environmental DNA (eDNA) metagenomics
+- Metagenomics and environmental DNA (eDNA)
 - Machine Learning
 - Web applications <br><br>
 
