@@ -10,13 +10,12 @@ I am now pursuing a Master's in Computer Science to **learn bioinformatics and d
 ### Languages and technologies:<br>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=50/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width=50/>
 </p>
 
 ## Personnal pages :
-- [ResearchGate](https://www.researchgate.net/profile/Simon-Lalonde)
-- [Kaggle](https://www.kaggle.com/simonlalonde)
-- [Bandcamp](https://allelic.bandcamp.com/)
+- [ResearchGate](https://www.researchgate.net/profile/Simon-Lalonde) -> The "Facebook" of research
+- [Bandcamp](https://allelic.bandcamp.com/) -> Atmospheric folk/metal project named Allelic
