@@ -1,6 +1,6 @@
 # Hello, this is fellow star stuff made :sparkles:Simon Lalonde:sparkles:
 I am a self-taught programming apprentice currently living in Sherbrooke, Canada. In the past, I have engaged in research on functional genomics:dna: of cardiovascular and blood diseases as well as lipid metabolism:test_tube: pathways in breast cancer malignancy as a molecular biology wet lab scientist. I have also dwelled the production:beer: and science:microscope: behind craft brewing.<br><br>
-I am now pursuing a Master's in Computer Science to **learn bioinformatics and data science** in Dr. Nadia Tahiri's lab!
+I am now pursuing a Master's in Computer Science to **learn bioinformatics and data science** in [Dr. Nadia Tahiri's](https://tahirinadia.github.io/) lab!
 
 ## My ***scientific and programming*** interests:
 - Computational biology 
