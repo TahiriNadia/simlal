@@ -13,6 +13,6 @@ I am a self-taught programming apprentice and data science enthusiast now pursui
 </p>
 
 ## Personnal pages :
-- [ResearchGate](https://www.researchgate.net/profile/Simon-Lalonde) -> Research social platform
+- [ResearchGate](https://www.researchgate.net/profile/Simon-Lalonde) -> Social platform for research
 - [Bandcamp](https://allelic.bandcamp.com/) -> Atmospheric folk/metal project named Allelic
 - [LinkedIn](https://www.linkedin.com/in/simon-lalonde/)
