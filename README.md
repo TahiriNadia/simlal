@@ -1,5 +1,5 @@
 # Hello, this is fellow star stuff made :sparkles:Simon Lalonde:sparkles:
-I am a self-taught programming apprentice and data science enthusiast now pursuing a Master's in Computer Science in [Dr. Nadia Tahiri's](https://tahirinadia.github.io/) lab! In the past, I have engaged in research on functional genomics:dna: of cardiovascular and blood diseases as well as lipid metabolism:test_tube: pathways in breast cancer malignancy as a molecular biology wet lab scientist. I have also dwelled the production:beer: and science:microscope: behind craft brewing.<br><br>
+I am a self-taught programming apprentice and data science enthusiast now pursuing a Master's in Computer Science in [Dr. Nadia Tahiri's](https://tahirinadia.github.io/) lab!<br>In the past, I have engaged in research on functional genomics:dna: of cardiovascular and blood diseases as well as lipid metabolism:test_tube: pathways in breast cancer malignancy as a molecular biology wet lab scientist. I have also dwelled the production:beer: and science:microscope: behind craft brewing.<br><br>
 
 ## My ***scientific and programming*** interests:
 - Computational biology, gene-environment interactions
