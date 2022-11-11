@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/simon-lalonde/"><img width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;<- Well..It's LinkedIn !
 </div>
 
-<h2 align="center"> Some meh statistics :</h2>
+<h2 align="center"> Some (meh) numbers :</h2>
 <div align="center" padding="50px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simlal&layout=compact" width=350><br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=simlal.simlal" height=20><br>
