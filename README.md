@@ -5,7 +5,7 @@
 
 <h3 align="left"> My scientific and programming interests :</h3>
 <ul>
-<li>Computational biology :computer:, gene-environment interactions:dna:</li>
+<li>Computational biology + gene-environment interactions:dna:</li>
 <li>Data analysis :bar_chart: and machine learning :robot:</li>
 <li>Web applications :computer:</li>
 
