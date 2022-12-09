@@ -7,6 +7,7 @@
 <ul>
 <li>Computational biology :computer:, gene-environment interactions:dna:</li>
 <li>Data analysis :bar_chart: and machine learning :robot:</li>
+<li>Web applications :computer:</li>
 
 <h3 align="right"> Languages and technologies of interest :</h3>
 <div align="right">
