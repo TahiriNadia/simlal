@@ -13,8 +13,9 @@
 <div align="right">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=42/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=42/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width=42/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=42/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width=42/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width=42/>
 </div>
 <h3 align="left"> Personnal pages :</h3>
 <div align="left">
