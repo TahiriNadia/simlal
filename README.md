@@ -24,9 +24,15 @@
 </div>
 
 <h2 align="center"> Some (meh) numbers :</h2>
-<div align="center" padding="50px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simlal&layout=compact" width=350><br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=simlal.simlal" height=20><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=000000&center=true&vCenter=true&width=350&height=40&lines=Since+03%2F11%2F2022+(inflated+by+me!)">
+<div align="center" padding="50px" float="left">
+<img src="https://github-readme-stats.vercel.app/api?username=simlal&show_icons=true&theme=default&count_private=true" height=150>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simlal&layout=compact" height=150>
 </div>
+<br>
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=simlal.simlal" height=20>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=000000&center=true&vCenter=true&width=350&height=40&lines=Since+03%2F11%2F2022+(inflated+by+me!)">
+</p>
 </body>
